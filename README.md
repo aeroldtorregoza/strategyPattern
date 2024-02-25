@@ -48,4 +48,8 @@ public class Character {
         }
     }
 }
+# Class Diagram
+<img width="1115" alt="image" src="https://github.com/aeroldtorregoza/strategyPattern/assets/143488240/2d6ad0f1-4297-4a98-b653-adc9111e876b">
+
+
 
